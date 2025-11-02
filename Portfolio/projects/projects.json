@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Cakey",
+    "desc": "Developed a full-stack platform matching Perfect cake with compatible Situation, featuring secure login and community engagement.",
+    "image": "uni",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Vedakothadia/Cakey"
+    }
+  },
+  {
+    "name": "Nutritempt",
+    "desc": "Developed an innovative mobile app to provide personalized recipe and restaurant menu suggestions based on users' preferences.",
+    "image": "nutri",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "hhttps://github.com/Vedakothadia/NutriApp"
+    }
+  },
+  {
+    "name": "TicTacToe",
+    "desc": "Developed a CLI tool to compare car rental prices using data scraping, algorithms, and advanced data structures.",
+    "image": "car",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Vedakothadia/Tictactoe"
+    }
+  }
+  
+]
